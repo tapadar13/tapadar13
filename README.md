@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js** and **Express**
 
-- 👨‍💻 I am passionate about **Web Dev** & I enjoy learning new things
+- 👨‍💻 I’m passionate about **Web Dev** & I enjoy learning new things
 
-- 🤝 I am currently looking for new opportunities
+- 🤝 I’m currently looking for new opportunities
 
 - 💬 Ask me about **JavaScript** and **React**
 
