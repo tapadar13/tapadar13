@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Food Ordering** app
 
-- 🌱 I’m currently learning **Node.js** and **Express.js**
+- 🌱 I’m currently learning **Node.js** and **Express.js** 
 
 - 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things
 
