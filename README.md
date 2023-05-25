@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js** and **Express.js**
 
-- 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things
+- 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
 
 - 📝 I write articles on [https://tapadarmonsur.hashnode.dev/](https://tapadarmonsur.hashnode.dev/)
 
