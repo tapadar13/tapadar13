@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an **AI-based article summarizer** app
 
-- 🌱 I’m currently learning **Node.js** and **Express.js** 
+- 🌱 I’m currently learning **Node.js**, **Express.js** and **MongoDB**
 
 - 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
 
