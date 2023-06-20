@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
 
-- 📝 I write articles on [https://tapadarmonsur.hashnode.dev/](https://tapadarmonsur.hashnode.dev/)
+- 📝 I write articles on [Hashnode](https://tapadarmonsur.hashnode.dev/)
 
 - 🤝 I’m currently looking for new opportunities
 
