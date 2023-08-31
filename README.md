@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on building the backend of an E-Commerce app
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
 
