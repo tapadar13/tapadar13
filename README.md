@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapadar13&show_icons=true&locale=en" alt="tapadar13" /></p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tapadar13&theme=react" width="48%" >
-<br></p>
+
