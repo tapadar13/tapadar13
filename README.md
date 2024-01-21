@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on building a full-stack photo-sharing social media app
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently working on building a **Stack Overflow** clone
 
 - 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
 
