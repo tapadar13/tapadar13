@@ -2,7 +2,7 @@
 <h2 align="center">I'm Tapadar Monsur. I specialise in crafting visually stunning, performant and scalable web applications</h2> 
 
 
-- 🌱 I’m currently working on building a **Figma** clone
+- 🌱 I’m currently working on building a **Notion** clone
 
 - 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
 
