@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently working on building a **Notion** clone
 
-- 👨‍💻 I’m passionate about **Web Dev** and I enjoy learning new things 
+- 👨‍💻 I'm passionate about continuous learning and exploring the dynamic realm of web development
 
-- 📝 I write articles on [Hashnode](https://tapadarmonsur.hashnode.dev/)
+- 📝 I share insights on [Hashnode](https://tapadarmonsur.hashnode.dev/)
 
 - 🤝 I’m currently looking for new opportunities
 
