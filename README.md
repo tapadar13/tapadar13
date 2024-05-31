@@ -1,12 +1,13 @@
 <img align="center" alt="banner-image" src="https://rishavanand.github.io/static/images/greetings.gif" />
-<h2 align="center">I'm Tapadar Monsur. I specialise in crafting visually stunning, performant and scalable web applications</h2> 
+<h1 align="center">Hi, I'm Tapadar 👋</h1> 
+<h2 align="center">I Craft Visually Stunning, Performant, and Scalable Web Applications</h2> 
 
 
-- 🌱 I’m currently working on building a **Notion** clone
+- 🌱 **Current Project:** Developing a **SaaS Automation Builder** application to streamline business processes and enhance productivity
 
-- 👨‍💻 I'm passionate about continuous learning and exploring the dynamic realm of web development
+- 👨‍💻 Committed to continuous learning and staying updated on the latest trends in web development
 
-- 📝 I share insights on [Hashnode](https://tapadarmonsur.hashnode.dev/)
+- 📝 Sharing insights and best practices with the developer community on [Hashnode](https://tapadarmonsur.hashnode.dev/)
 
 - 🤝 I’m currently looking for new opportunities
 
