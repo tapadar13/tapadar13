@@ -3,8 +3,6 @@
 <h2 align="center">I Craft Visually Stunning, Performant, and Scalable Web Applications</h2> 
 
 
-- 🌱 **Current Project:** Developing a **Healthcare Patient Management** application to streamline patient registration, appointment booking and management with doctors.
-
 - 👨‍💻 Committed to continuous learning and staying updated on the latest trends in web development
 
 - 📝 Sharing insights and best practices with the developer community on [Hashnode](https://tapadarmonsur.hashnode.dev/)
