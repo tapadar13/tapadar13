@@ -1,7 +1,8 @@
 <img align="center" alt="banner-image" src="https://rishavanand.github.io/static/images/greetings.gif" />
 <h1 align="center">Hi, I'm Tapadar 👋</h1> 
-<h2 align="center">I Craft Visually Stunning, Performant, and Scalable Web Applications</h2> 
+<h2 align="center">I create engaging, efficient, and scalable web applications with a focus on user experience and clean code architecture.</h2>
 
+- 🔭 I'm currently developing a comprehensive project management and collaboration platform, featuring task tracking and workflow automation
 
 - 👨‍💻 Committed to continuous learning and staying updated on the latest trends in web development
 
